@@ -55,7 +55,7 @@
 | 49 | Denis | 680 |  | 18.07.2022 |
 | 50 | Imen | 1 | 1N7xRgiDEydVxGgn78Css9fzhMVai36rgU | 24.07.2022 |
 | 51 | SA |  | 1FixTi5knCtec9rb2gdEuj83Jwjr5uZ8iM | 24.07.2022 |
-| 52 |  |  |  | 00.07.2022 |
+| 52 | Sinar |  | 15vFKtGxLrdBb5KUCcneiHXrDVRpauV3TV | 26.07.2022 |
 | 53 |  |  |  | 00.07.2022 |
 | 54 |  |  |  | 00.07.2022 |
 | 55 |  |  |  | 00.07.2022 |
